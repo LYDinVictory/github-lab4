@@ -8,3 +8,4 @@ urlpatterns = patterns('',
     (r'^search_Add/$',search_add),  
     (r'^update/(.*)/$',update),
 )
+#for C4
